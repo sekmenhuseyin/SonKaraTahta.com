@@ -1,0 +1,14 @@
+BODY {scrollbar-face-color:#B5C6D2;scrollbar-highlight-color:#ECF0F2;scrollbar-shadow-color:#CDD8E1;scrollbar-3dlight-color:#CDD8E1;scrollbar-arrow-color:#CDD8E1;scrollbar-track-color:#CDD8E1;scrollbar-darkshadow-color:#CDD8E1;}
+@font-face {font-family:Verdana;}
+TABLE{font-weight: bold;FONT-SIZE:10px;COLOR: #004B7C;FONT-FAMILY:Verdana, Arial, Helvetica, sans-serif}
+P {font-weight: bold;FONT-SIZE:10px;COLOR: #004B7C;FONT-FAMILY:Verdana, Arial, Helvetica, sans-serif}
+DIV {font-weight: bold;FONT-SIZE:11px;COLOR:#004B7C;FONT-FAMILY:Verdana, Arial, Helvetica, sans-serif}
+a:link{text-decoration:none;color:#004B7C;}
+a:visited{text-decoration:none;color:#004B7C;}
+a:active{text-decoration:none;color:#004B7C;}
+a:hover{text-decoration:none;color:#00365A;}
+.form1{font-family:Tahoma;text-align:center;font-size:8pt;font-weight:bold;color:#000000;Background-Color:#B5C6D2;border-width:1px;border-color:#6D90A7;page-break-inside: avoid;border-style:solid;border-collapse:collapse;}
+.submit{font-family:Tahoma;font-size: 8pt;font-weight: bold;text-color: red;border-width:1px; background-color:#B5C6D2;border-color:#6D90A7;page-break-inside: avoid;border-style:solid;border-collapse:collapse;}
+.td_menu{font-family:tahoma;font-size:11px;color:#000000;}
+.td_menu2{font-family:verdana;font-size:10px;color:#000000;}
+.block_title{FILTER: dropshadow(color=#BBBBBB,offx=1,offy=1,positive=1);font:bold 11px tahoma;color:#000000; width:100%;}

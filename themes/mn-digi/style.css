@@ -1,0 +1,12 @@
+BODY {FONT-SIZE: 11px; CURSOR: default; COLOR: #272e34; FONT-FAMILY: Verdana, Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #324252; TEXT-DECORATION: none;SCROLLBAR-FACE-COLOR: #D4D5D4; SCROLLBAR-HIGHLIGHT-COLOR: #E0E0E0; SCROLLBAR-SHADOW-COLOR: #ff0000; SCROLLBAR-3DLIGHT-COLOR: #DDDDDsD; SCROLLBAR-ARROW-COLOR: #000000; SCROLLBAR-TRACK-COLOR: #B6B6B6; SCROLLBAR-DARKSHADOW-COLOR: #DDDDDD; SCROLLBAR-BASE-COLOR: #E0E0E0; }
+A:link { FONT-SIZE: 11px; COLOR: #272e34; FONT-FAMILY: ; TEXT-DECORATION: none }
+A:visited { FONT-SIZE: 11px; COLOR: #272e34; FONT-FAMILY: ; TEXT-DECORATION: none }
+A:active { FONT-SIZE: 11px; COLOR: #272e34; FONT-FAMILY: ; TEXT-DECORATION: none }
+A:hover {	 FONT-SIZE: 11px; COLOR: red; FONT-FAMILY: ; TEXT-DECORATION: none; font-weight: bold; }
+.form1{BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #5d5d5d 1px solid; BACKGROUND: #cccccc; FONT: 11px Tahoma,Arial,Helvetica,sans-serif; BORDER-LEFT: #5d5d5d 1px solid; COLOR: #ff0000; FONT-WEIGHT: BOLD;BORDER-BOTTOM: #ffffff 1px solid}
+.submit {BORDER-RIGHT: #ffffff 1px solid;border-style:outset; BORDER-TOP: #5d5d5d 1px solid; BACKGROUND: #cccccc; FONT: 11px Tahoma,Arial,Helvetica,sans-serif; BORDER-LEFT: #5d5d5d 1px solid; COLOR: #ff0000; FONT-WEIGHT: BOLD;BORDER-BOTTOM: #ffffff 1px solid}
+.td_menu{font-family:Tahoma;font-size:11px;color:#CCCCCsC;}
+.td_menu2{font-family:Verdana;font-size:10px;color:#CCCCCC;}
+.block_title{FILTER: dropshadow(color=#000000,offx=2,offy=1,positive=1);font:bold 11px So Run Tahoma; color:#ffffff; width:100%;}
+.td_menu {FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: tahoma}
+.td_menu2 {FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: verdana}

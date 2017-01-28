@@ -1,0 +1,12 @@
+<!--#include file="database.asp" -->
+<!--#include file="language_file.asp" -->
+<!--#include file="checkLevels.asp" -->
+<!--#include file="getInfo.asp" -->
+<!--#include file="maincodes.asp" -->
+<!--#include file="themes.asp" -->
+<!--#include file="banned_ip.asp" -->
+<!--#include file="filter.asp" -->
+<!--#include file="functions.asp" -->
+<!--#include file="clear_html_codes.asp" -->
+<!--#include file="javascript.asp" -->
+<%no_entry=sett("np_msg")%>

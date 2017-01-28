@@ -1,0 +1,81 @@
+. yönetim panelinde kategorileri listelerken yeni ekle linki ekle	...ok
+. yönetimde üye listesi düzeltildi					...ok
+. yönetimde bi şeyler silerken onay isteyecek				...ok
+. yönetimde forumda düzenle-sil bozuldu					...ok
+. yönetim girişinde #(galeri editörü)=?					...ok
+. yönetimdeki haber düzenlemeyi değiştir				...ok
+. yöneticileri kontrol edemiyorsun					...ok
+. yönetimde üye listesinde tüm sutünlara göre sıralama olmalı		...ok
+. yönetimde haberlerde güvenli düzenle olmalı				...ok
+. yönetimde "banlama"da yeni üye gir de olmalı				...ok
+. yönetimde banlamada iptal/geri olmalı					...ok
+. yönetimde banlamada üye düzenlemede hata var				...ok
+. yönetimdeki iletişim sayfasını güzelleştir.				...ok
+. yönetimde oluşturduğun anketi düzenleyemiyorsun.			...ok
+. yönetimde forum moderatörleri sayfaları yanlış oldu...		...ok
+. yönetimden login olmalı						...ok
+. forum.asp'de de güvenli düzenle olmalı				...ok
+. forumda özellikle "sil" için onay lazım				...ok
+. forum.asp'deki mesaj editörünün çıkmıyor bazen			...ok
+. forumda moderatör atarken de forum ile konular ayırt edilmeli		...ok
+. forumda last_post mutlaka kullanılmalı				...ok
+. forumda aramada tüm konular&forumlar olmalı				...ok
+. forum aramada konular&forumlar ayırt edilebilmeli			...ok
+. mesaj yazınca giden kutusuna kayıt olmuyor !				...ok
+. mesajlar yanlis yaziliyor, yazılar bölümü !!!				...ok
+. mesaj yazınca butonlar disabled olsa.					...ok
+. iletişim de başlık veya msg eksikse sayfa değişmeyecek		...ok
+. yazı gönderirken bi şeyler eksikse sayfa değişmeyecek			...ok
+. yeni üyede boş olan text varsa devam etmeyecek			...ok
+. iletişimde mesaj yazınca tablolar birbirine giriyor			...ok
+. onaylanacak yazılarda da interactive htmlarea olmalı.			...ok
+. onaylanacak yazıların kaynak kodları görünmeli.			...ok
+. login'de nick veya şifre eksikse sayfa değişmeyecek			...ok
+. kayan yazılara gelince imleç mavi.cur olacak				...ok
+. merlin olmazsa da olsa da görünüyor					...ok
+. sayfalarda hangi sayfada olduğun belli olsun				...ok
+. icq belirtilmemiş ise "Yazılmamış" diyecek				...ok
+. üye listesinde rakamla ve işaretlerle başlayanları da sırala		...ok
+. profil düzenlemede de boş olan varsa devam etmeyecek			...ok
+. yeni üye olmada ajax ile nick kontrol					...ok
+. üye olurken şifre tekrarı lazım					...ok
+. enter.asp içinde view.asp yüklenmemeli-giris.asp'ye yönlensin		...ok
+. login'den sonra her zaman önceki sayfaya yönlensin			...ok
+. haberler sayfasını düzenle						...ok
+. atlas (ajax+asp) türkçe hatası veriyor!!!				...ok
+. polls.asp'de anket yoksa anket yok yazmalı				...ok
+. ana liklerdeki sayfaların başlıkları aynı olsun			...ok
+. yeni eklenmiş-popüler-ekle-stats linkleri hatalı,eksik		...ok
+. sitede üyeye kullanıcı adıyla değil ismiyle hitap edilmeli		...ok
+. yorum yazdıktan sonra yazıya geri dönemiyorsun			...ok
+. haber ve yazı puanlama sorunlu galiba...				...ok
+. hafta/ay/yıl için runtime grafik olamlı-istatistiklerle ilgili	...ok
+. htmlarea'da smiley ekle'nin değiştirilmesi lazım			...ok
+. tüm sayfalarda querystring açıkları var				...ok
+. articles tablosuna pointer diye bir alan oluştur!!!(puan için)	...ok
+. downloads tablosuna pointer diye bir alan oluştur!!!(puan için)	...ok
+. program oylamada sorun var						...ok
+*****************************************************************************
+
+. forum veritabanına "MODERATORS" diye bir tablo oluştur		...ok
+. messages tablosuna "cvp_sayisi" diye bir alan oluştur			...ok
+. settings tablosuna "mp_article" diye bir alan oluştur			...ok
+*****************************************************************************
+. forumdaki moderatorlerin vb'ye kaydedilme şeklini değiştir		...ok
+. logout olduğunda hala online gözüküyor.				...ok
+
+. arama kelimesi boşsa aramayacak
+. ayrıntılı arama lazım
+. messenger berbat!
+. reklamlar yeni sayfalarda açılacak & düzenlenecek
+. şehir seçimi combobox olacak, şehir diye tablo olacak
+. anketlerin son geçerlilik tarihi olması lazım
+. setup.asp'yi güncelleştir
+
+. yönetimde bulunduğun sayfanın adı sol üst köşede yazılmalı
+. forumda her konu veya alt konu için ayrı sabit konu olabilmeli
+. moderatörlerin & yöneticilerin yetkileri azaltılacak!!!
+
+. siteyi sayfaların adları belli olmayacak şekilde ayarla
+. yömnetimi sayfaların adları belli olmayacak şekilde ayarla.
+. 

@@ -1,0 +1,22 @@
+			Mini-NUKE Fixed Version UPLOAD Sistemi
+
+
+		     Www.Mini-NUKE.De Fixed version Resim Web Sitesi
+
+
+
+
+  UpLoad Kullanýmý Çok Kolay. Yönetim Paneline Girip En Altta UPLOAd Linkine Týklayýn. 
+
+  "Þifre : mnfixed " oLarak Girin. Þifreyi Deðiþmek için "administrator/upload" Dizinine Girip
+  
+  " default.asp " Dosyasýný açýn 7. Satýrda ( Const wexPassword = "mnfixed" ) Þifreyi Deðiþebilirsiniz.
+  
+  
+
+
+
+
+
+
+           Web Hayatýnýzda Baþarýlar Dilerim... Mini-NUKE Team (MaLiBaY)

@@ -1,0 +1,4 @@
+<%
+message=request("message")
+%>
+<%=message%>
